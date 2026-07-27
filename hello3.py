@@ -1,3 +1,5 @@
 print("반갑습니다")
 s = input("입력")
 print("hello")
+while True:
+    pass
